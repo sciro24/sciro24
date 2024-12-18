@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Graduated in Computer Engineering.<br>📚 I'm attending Roma Tre University <br>💭 Interested in Artificial Intelligence and Machine Learning 
+🎓 Graduated in Computer Engineering.<br>🧑🏻‍💻 Pursuing a Master's degree in AI & ML. <br>📚 I'm attending Roma Tre University <br>💭 Interested in Artificial Intelligence and Machine Learning 
 
 
 ## 🌐 Socials:
