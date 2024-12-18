@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 I'm currently studying Computer Engineering<br>📚 I'm attending Roma Tre University <br>💭 Interested in Artificial Intelligence and Machine Learning 
+🧑🏻‍💻 Graduated in Computer Engineering.<br>📚 I'm attending Roma Tre University <br>💭 Interested in Artificial Intelligence and Machine Learning 
 
 
 ## 🌐 Socials:
