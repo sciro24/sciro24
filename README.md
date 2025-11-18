@@ -4,13 +4,6 @@
 
 ###
 
-<h1 align="left">Hi, I'm:</h1>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
-</div>
-
-###
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sciro24&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/sciro24)
 
@@ -133,13 +126,21 @@
 
 ###
 
-<h4 align="left">👤 Get in Touch!</h4>
+<h4 align="left">👤 Get in Touch:</h4>
 
-###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-scirocco/?locale=en_US)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego.scirocco/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.scirocco@gmail.com)
+<p align="center">  
+  <a href="https://www.linkedin.com/in/diego-scirocco/?locale=en_US" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="https://www.instagram.com/diego.scirocco/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+  </a>
+  <a href="mailto:diego.scirocco@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
+  </a>
+</p>
+
 
 
 ###
