@@ -12,6 +12,11 @@
 
 ###
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sciro24&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/sciro24)
+
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
 </div>
@@ -69,8 +74,13 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sciro24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sciro24&radius=16&theme=react&area=true&order=5&hide_border=true" 
+    style="height: 284px; display: inline-block;" 
+    alt="activity-graph graph"  
+  />
 </div>
+
 
 ###
 
@@ -105,17 +115,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/diego.scirocco/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="mailto:diego.scirocco@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/diego-scirocco/?locale=en_US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-scirocco/?locale=en_US)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego.scirocco/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.scirocco@gmail.com)
+
 
 ###
 
@@ -135,7 +138,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sciro24.sciro24&"  />
 </div>
 
