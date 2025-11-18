@@ -129,17 +129,12 @@
 <h4 align="left">👤 Get in Touch:</h4>
 
 
-<p align="center">  
-  <a href="https://www.linkedin.com/in/diego-scirocco/?locale=en_US" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="https://www.instagram.com/diego.scirocco/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
-  </a>
-  <a href="mailto:diego.scirocco@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
-  </a>
+<p align="center">
+ <a href="https://www.linkedin.com/in/diego-scirocco/?locale=en_US" target="_blank" style="text-decoration: none; margin: 0 5px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+ <a href="https://www.instagram.com/diego.scirocco/" target="_blank" style="text-decoration: none; margin: 0 5px;"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" /></a>
+ <a href="mailto:diego.scirocco@gmail.com" target="_blank" style="text-decoration: none; margin: 0 5px;"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" /></a>
 </p>
+
 
 
 
