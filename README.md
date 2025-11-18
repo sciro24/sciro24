@@ -6,21 +6,41 @@
 
 <h1 align="left">Hi, I'm:</h1>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
+</div>
+
+###
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sciro24&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/sciro24)
-
-
-###
-
-<p align="left">🎓 Graduated in Computer Engineering<br>🧑🏻‍💻 Currently pursuing a Master’s in AI & Machine Learning<br>📚 Studying at Roma Tre University<br>💭 Passionate about LLM & Network Security</p>
-
-###
-
 
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
+</div>
+
+###
+
+<p align="left">
+  <big>🎓 Graduated in Computer Engineering</big><br><br>
+  <big>🧑🏻‍💻 Currently pursuing a Master’s in AI & Machine Learning</big><br><br>
+  <big>📚 Studying at Roma Tre University</big><br><br>
+  <big>💭 Passionate about LLM & Network Security</big>
+</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
+</div>
+
+###
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
 </div>
 
 ###
