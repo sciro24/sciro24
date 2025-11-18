@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">
+<p align="center">
   <big>🎓 Graduated in Computer Engineering</big><br><br>
   <big>🧑🏻‍💻 Currently pursuing a Master’s in AI & Machine Learning</big><br><br>
   <big>📚 Studying at Roma Tre University</big><br><br>
