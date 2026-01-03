@@ -42,7 +42,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo" />&nbsp;
@@ -89,16 +89,24 @@
 
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" 
-    height="200"
-    alt="stats graph"
-  />
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sciro24&theme=react&hide_border=true&layout=compact"
-    height="200"
-    alt="top langs"
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://github-readme-stats-eight-theta.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" 
+          height="180"
+          alt="stats graph"
+        />
+      </td>
+      <td align="center">
+        <img 
+          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sciro24&theme=react&hide_border=true&layout=compact"
+          height="180"
+          alt="top langs"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
