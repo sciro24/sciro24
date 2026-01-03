@@ -100,15 +100,14 @@
 ###
 
 
-<div style="display: flex; align-items: flex-start; gap: 10px;">
+<div align="left">
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1"
-    style="height: 200px;"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" 
     alt="stats graph"
   />
+  <br/>
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sciro24&layout=donut&theme=react&hide_border=true" 
-    style="height: 200px;"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sciro24&theme=react&hide_border=true&layout=compact&card_width=800"
     alt="top langs"
   />
 </div>
