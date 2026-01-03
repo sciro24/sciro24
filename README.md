@@ -17,10 +17,10 @@
 ###
 
 <p align="center">
-  <big>🎓 Graduated in Computer Engineering</big><br><br>
-  <big>🧑🏻‍💻 Currently pursuing a Master’s in AI & Machine Learning</big><br><br>
-  <big>📚 Studying at Roma Tre University</big><br><br>
-  <big>💭 Passionate about LLM & Network Security</big>
+  🎓 <strong>Bachelor’s Degree in Computer Engineering</strong><br><br>
+  🧑🏻‍💻 <strong>Master’s Student in Artificial Intelligence & Machine Learning</strong><br><br>
+  📚 <strong>Roma Tre University</strong><br><br>
+  💭 <strong>Interests:</strong> Large Language Models & Network Security
 </p>
 
 ###
