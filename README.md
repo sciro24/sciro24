@@ -89,24 +89,16 @@
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img 
-          src="https://github-readme-stats-eight-theta.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" 
-          height="180"
-          alt="stats graph"
-        />
-      </td>
-      <td align="center">
-        <img 
-          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sciro24&theme=react&hide_border=true&layout=compact"
-          height="180"
-          alt="top langs"
-        />
-      </td>
-    </tr>
-  </table>
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" 
+    height="180"
+    alt="stats graph"
+  />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sciro24&theme=react&hide_border=true&layout=compact"
+    height="180"
+    alt="top langs"
+  />
 </div>
 
 
