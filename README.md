@@ -102,12 +102,12 @@
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&cache_seconds=86400" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sciro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1"
     style="height: 200px;"
     alt="stats graph"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sciro24&layout=donut&theme=react&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sciro24&layout=donut&theme=react&hide_border=true" 
     style="height: 200px;"
     alt="top langs"
   />
